@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2C42EA4-2414-485B-BA85-58B047FC5F4C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30EC8EBE-2090-4B38-A51A-6E5E1A229F45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "AddIngredientUnitTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "30EC8EBE-2090-4B38-A51A-6E5E1A229F45 - 529b8c208901e35f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.AddIngredientUnitTests.testRemoveIngredientMethodRemovesIngredientFromUserDefaultsAndIngredientArray() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "30EC8EBE-2090-4B38-A51A-6E5E1A229F45 - 529b8c208901e3be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.AddIngredientUnitTests.testRemoveIngredientMethodRemovesIngredientFromUserDefaultsAndIngredientArray() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  uuid = "30EC8EBE-2090-4B38-A51A-6E5E1A229F45 - 529b8c208901e2a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.AddIngredientUnitTests.testRemoveIngredientMethodRemovesIngredientFromUserDefaultsAndIngredientArray() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "510">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "214467DD-839C-4D38-BDE0-BC29040D1204"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "tearDownWithError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "214467DD-839C-4D38-BDE0-BC29040D1204 - 124e5fbdbb4b0f38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "379">
+               </Location>
+               <Location
+                  uuid = "214467DD-839C-4D38-BDE0-BC29040D1204 - f8cb448cf22500c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.MemoryLeaksUsingReflection.tearDownWithError() throws -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "270">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F978E8FD-9235-4972-92CF-BC097E5F361D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tearDownWithError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F978E8FD-9235-4972-92CF-BC097E5F361D - 124e5fbdbb4b0f38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "379">
+               </Location>
+               <Location
+                  uuid = "F978E8FD-9235-4972-92CF-BC097E5F361D - f8cb448cf22502b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.MemoryLeaksUsingReflection.tearDownWithError() throws -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "974FCE42-73A9-4DA3-98D0-49B66BAC70CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "974FCE42-73A9-4DA3-98D0-49B66BAC70CA - ce3477dd446a37f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.AddIngredientUnitTests.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1963">
+               </Location>
+               <Location
+                  uuid = "974FCE42-73A9-4DA3-98D0-49B66BAC70CA - ce3477dd446a37f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.AddIngredientUnitTests.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2068">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20533A61-0485-48B3-8FD7-2FCDE51C7687"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "20533A61-0485-48B3-8FD7-2FCDE51C7687 - ce3477dd446a37f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.AddIngredientUnitTests.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1963">
+               </Location>
+               <Location
+                  uuid = "20533A61-0485-48B3-8FD7-2FCDE51C7687 - ce3477dd446a37f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.AddIngredientUnitTests.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2068">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "296F9AF0-91B7-4A2C-9EBA-0AB9E27649FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "296F9AF0-91B7-4A2C-9EBA-0AB9E27649FC - ce3477dd446a354d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.AddIngredientUnitTests.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "296F9AF0-91B7-4A2C-9EBA-0AB9E27649FC - ce3477dd446a354d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "findRecipeTests.AddIngredientUnitTests.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "257">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91EB1BC6-2FFE-4381-BD25-2F56C82BACFF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91EB1BC6-2FFE-4381-BD25-2F56C82BACFF - 90bab3b52682bb32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "91EB1BC6-2FFE-4381-BD25-2F56C82BACFF - 124e5fbdbb4b0965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  uuid = "91EB1BC6-2FFE-4381-BD25-2F56C82BACFF - 90bab3b52682a37e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1106">
+               </Location>
+               <Location
+                  uuid = "91EB1BC6-2FFE-4381-BD25-2F56C82BACFF - 90bab3b52682a330"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1229">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EC3AA59-F4CF-4DA2-A911-43BE498055BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1EC3AA59-F4CF-4DA2-A911-43BE498055BE - 124e5fbdbb4b12d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  uuid = "1EC3AA59-F4CF-4DA2-A911-43BE498055BE - 124e5fbdbb4b0965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  uuid = "1EC3AA59-F4CF-4DA2-A911-43BE498055BE - 124e5fbdbb4b0a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  uuid = "1EC3AA59-F4CF-4DA2-A911-43BE498055BE - 124e5fbdbb4b0ad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "225">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A4284CC-4D4E-45DB-8E02-CD7E47E6717A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/AddIngredientUnitTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B6207C4-228C-4E17-B1CB-73DB356CAD09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B6207C4-228C-4E17-B1CB-73DB356CAD09 - 90bab3b52682a017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "4B6207C4-228C-4E17-B1CB-73DB356CAD09 - 90bab3b52682a017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "4B6207C4-228C-4E17-B1CB-73DB356CAD09 - 90bab3b52682a0c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "4B6207C4-228C-4E17-B1CB-73DB356CAD09 - 90bab3b52682a0c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A51D9BEF-593A-4CAB-9551-4D83022E1E1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A51D9BEF-593A-4CAB-9551-4D83022E1E1A - 90bab3b52682a055"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1141">
+               </Location>
+               <Location
+                  uuid = "A51D9BEF-593A-4CAB-9551-4D83022E1E1A - 90bab3b52682a017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "254F335D-89FD-4F49-B8BB-287CCFA951AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "254F335D-89FD-4F49-B8BB-287CCFA951AE - 90bab3b52682a3f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "254F335D-89FD-4F49-B8BB-287CCFA951AE - 90bab3b52682a3b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Any) -&gt; () in closure #1 () -&gt; () in findRecipeTests.MemoryLeaksUsingReflection.setUp() -&gt; ()"
+                  moduleName = "findRecipeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrator/Desktop/clonedRepo/WD.Internal.PoC/Mobile/IOSDefendersPoC/KannupriyaInternDemo/findRecipe/findRecipe/FindRecipeUnitTests/MemoryLeaksUsingReflection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
